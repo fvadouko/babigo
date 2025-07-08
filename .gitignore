@@ -1,0 +1,12 @@
+# Google Cloud Files
+google-cloud-sdk/
+google-cloud-cli-*.tar.gz
+cloud_sql_proxy
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
