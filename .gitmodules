@@ -1,3 +1,6 @@
 [submodule "backend-babigo"]
 	path = backend-babigo
 	url = https://gitlab.com/irdene/babigo-v2.git
+[submodule "babigo_front"]
+	path = babigo_front
+	url = https://gitlab.com/irdene/babigo-front.git
